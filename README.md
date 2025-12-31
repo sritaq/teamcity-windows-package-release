@@ -5,7 +5,8 @@
 **Git → Build → Package → Artifact → Deploy → Windows Server**  
 Enterprise-style, **auditable & repeatable** release workflow.
 
-</div>
+<img width="1064" height="485" alt="17671925580491858982997763960867" src="https://github.com/user-attachments/assets/cb6bf46b-d2d8-49fc-a9ee-4e22dcbadcc7" />
+
 
 ---
 
